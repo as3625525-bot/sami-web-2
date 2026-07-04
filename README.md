@@ -1,1 +1,3 @@
-# sami-web-2
+# `@next/env`
+
+Next.js' util for loading dotenv files in with the proper priorities
